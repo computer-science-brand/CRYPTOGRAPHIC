@@ -1,0 +1,33 @@
+{
+    "header": "Футболка randomart OVERSIZE",
+    "details": "Футболка oversize, на которой нанесен randomtart вашего публичного ключа.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "colors": [
+        "#000000",
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 0,
+    "relatedProducts": [],
+    "collection": "CRYPTOGRAPHIC",
+    "model": "randomart",
+    "price": 4900,
+    "tags": ["custom", "random", "oversize", "premium"]
+}
