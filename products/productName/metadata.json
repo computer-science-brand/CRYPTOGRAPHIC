@@ -1,4 +1,5 @@
 {
+    "id": "<name>_<class>_<type>_<optional>",
     "header": null,
     "details": null,
     "sizes": [],
