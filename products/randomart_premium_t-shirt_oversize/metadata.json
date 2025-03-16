@@ -36,5 +36,7 @@
         "oversize",
         "premium"
     ],
-    "images": []
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_1.webp"
+    ]
 }
