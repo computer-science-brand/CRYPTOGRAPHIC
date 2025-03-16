@@ -13,5 +13,7 @@
     "collection": null,
     "model": null,
     "price": null,
-    "tags": []
+    "tags": [],
+    "image": null,
+    "images": null
 }
