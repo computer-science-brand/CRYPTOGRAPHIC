@@ -30,5 +30,6 @@
     "collection": "CRYPTOGRAPHIC",
     "model": "randomart",
     "price": 4900,
-    "tags": ["custom", "random", "oversize", "premium"]
+    "tags": ["custom", "random", "oversize", "premium"],
+    "images": []
 }
