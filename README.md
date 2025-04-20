@@ -1,7 +1,7 @@
 # RANDOMART - Не совсем уж и рандомный ...
 
 <p style="text-align:center;">
-    <img src="resources/randomart_animation.gif" alt="animation">
+    <img src="https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/resources/randomart_animation.gif" alt="animation">
 </p>
 
 ## Abstract
@@ -191,7 +191,7 @@ D6 = 11 01 01 10 = ↘️ ↗️ ↗️ ↙️
 Таким образом, алгоритм, сканируя байт за байтом, строит свой маршрут. Если представить движение алгоритима в виде тепловой карты, мы получим следующую аниммацию:
 
 <p style="text-align:center;">
-    <img src="resources/randomart_heatmap.gif" alt="heatmap">
+    <img src="https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/resources/randomart_heatmap.gif" alt="heatmap">
 </p>
 
 ### VALUES
