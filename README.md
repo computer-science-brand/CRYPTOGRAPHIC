@@ -1,7 +1,5 @@
 # RANDOMART - Не совсем уж и рандомный ...
 
-![abstract](https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/resources/randomart_animation.gif)
-
 ## Abstract
 
 `randomart`, что означает рандомное искусство, является графическим представлением отпечатка  публичного ключа SSH (fingerprint). Главная идея этого графического объекта заключается в том, что человеку легче запоминать картинки или набор картинок, чем строку, состоящую из сложных комбинаций различных символов. Такими строками могут являться пароли, хеш-суммы, токены и тому подобное.
@@ -246,9 +244,7 @@ value,char
 
 И да, мы можем составить любую кодировку: на китайском, японском или на языке эмодзи — всё в рамках UTF-8.
 
-<p style="text-align:center;">
-    <img src="resources/JP.png" alt="jprandomart">
-</p>
+![print](https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/resources/JP.png)
 
 ### MAP FORMAT
 
@@ -281,7 +277,7 @@ pos(x, y) = x + 17y
 
 Данная тема достойна внимания, так как мы не учитываем сильные и слабые стороны человека, создавая системы, которые требуют запоминания сложных комбинаций. У человека довольно хорошая зрительная память, и мы можем этим воспользоваться. И randomart — это хороший пример того, как мы можем реализовать прокеты с учетом зрительной памяти.
 
-# Resources
+## Resources
 - [Hash Visualization: a New Technique to improve Real-World Security](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf)
 - [The drunken bishop: An analysis of the OpenSSH fingerprint visualization algorithm](http://www.dirk-loss.de/sshvis/drunken_bishop.pdf)
 - [Making art with SSH key randomart](https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art)
