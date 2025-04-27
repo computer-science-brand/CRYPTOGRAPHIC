@@ -31,10 +31,10 @@
     "model": "randomart",
     "price": 4900,
     "tags": ["custom", "random", "oversize", "premium"],
-    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_1.webp",
+    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_1.jpg",
     "images": [
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_1.webp",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_2.webp",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_3.webp"
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_1.jpg",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_2.jpg",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/jprandomart_premium_t-shirt_oversize/jprandomart_premium_t-shirt_oversize_3.jpg"
     ]
 }
