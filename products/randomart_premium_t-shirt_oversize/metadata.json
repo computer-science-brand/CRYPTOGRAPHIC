@@ -1,7 +1,7 @@
 {
     "id": "randomart_premium_t-shirt_oversize",
     "header": "Футболка randomart OVERSIZE",
-    "details": "Футболка oversize, на которой нанесен randomtart вашего публичного ключа в Японском стиле.",
+    "details": "Футболка oversize премиального качества из 95% хлопка (240 г/м²), на которой нанесен с передней стороны randomtart вашего публичного ключа. Ключ всегда уникален для каждой футболки, его генерация может быть как и рандомной, так и кастомной (по публичному ключу или профилю GitHub/GitLab). Удобный oversize-крой, плотная ткань Френчтерри и криптографический дизайн делают её идеальной для айтишников.",
     "sizes": [
         "S",
         "L",
@@ -36,13 +36,13 @@
         "oversize",
         "premium"
     ],
-    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_1.jpg",
+    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_1.png",
     "images": [
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_1.jpg",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_2.jpg",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_3.jpg",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_4.jpg",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_5.jpg",
-        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_6.jpg"
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_3.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_4.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_5.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/randomart_premium_t-shirt_oversize/randomart_premium_t-shirt_oversize_6.png"
     ]
 }
