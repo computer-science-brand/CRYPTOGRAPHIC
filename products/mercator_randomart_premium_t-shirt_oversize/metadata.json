@@ -1,0 +1,49 @@
+{
+    "id": "mercator_randomart_premium_t-shirt_oversize",
+    "header": "Футболка mercator randomart OVERSIZE",
+    "details": "Футболка oversize премиального качества из 95% хлопка (240 г/м²) с нанесённой на переднюю сторону randomart-графикой вашего публичного ключа на фоне карты сгенерированного острова. Используется проекция Меркатора — плоское картографическое отображение, ставшее стандартом для веб-карт и компьютерной навигации. Каждый ключ уникален для своей футболки: он может быть сгенерирован случайным образом или задан вручную (например, по публичному ключу или профилю GitHub/GitLab). Удобный oversize-крой, плотная ткань френч терри и яркий дизайн делают эту вещь идеальной для летного сезона.",
+    "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sizeGrid": [
+        ["A", 61, 64, 67, 71],
+        ["B", 73, 73, 77, 79],
+        ["C", 42, 42, 44, 45]
+    ],
+    "colors": [
+        "#FFFFFF"
+    ],
+    "density": 240,
+    "materials": [
+        "хлопок",
+        "лайкра"
+    ],
+    "careInstructions": [
+        "стирать в воде до 30 С",
+        "гладить до 110 С",
+        "барабанная сушка запрещена",
+        "не отбеливать",
+        "горизонтальная сушка"
+    ],
+    "availability": "предзаказ",
+    "discount": 10,
+    "relatedProducts": [],
+    "collection": "CRYPTOGRAPHIC",
+    "model": "randomart",
+    "price": 4900,
+    "tags": [
+        "custom",
+        "random",
+        "oversize",
+        "premium"
+    ],
+    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_1.png",
+    "images": [
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_1.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_2.png",
+        "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_3.png"
+    ]
+}
