@@ -29,18 +29,18 @@
         "горизонтальная сушка"
     ],
     "availability": "предзаказ",
-    "discount": 10,
+    "discount": 20,
     "relatedProducts": [],
     "collection": "CRYPTOGRAPHIC",
     "model": "randomart",
-    "price": 4900,
+    "price": 3900,
     "tags": [
         "custom",
         "random",
         "oversize",
         "premium"
     ],
-    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_1.png",
+    "image": "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_4.png",
     "images": [
         "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_1.png",
         "https://raw.githubusercontent.com/computer-science-brand/CRYPTOGRAPHIC/refs/heads/randomart/products/mercator_randomart_premium_t-shirt_oversize/mercator_randomart_premium_t-shirt_oversize_2.png",
